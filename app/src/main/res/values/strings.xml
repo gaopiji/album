@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">album</string>
+    <string name="canceled">Canceled</string>
+    <string name="no_selected">Please select, first.</string>
+    <string name="menu_preview">Gallery</string>
+    <string name="menu_image_select">Image</string>
+</resources>
